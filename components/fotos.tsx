@@ -18,6 +18,7 @@ const PhotoCard = ({ src, title }: { src: string; title: string }) => (
   </Card>
 )
 
+
 export function FotosComponent() {
   return (
     <div className="min-h-screen p-4 sm:p-8 bg-black relative overflow-hidden flex flex-col items-center justify-start">
